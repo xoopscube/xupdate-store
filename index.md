@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+permalink: /
+---
+
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/2.0.0/active.svg)](https://www.repostatus.org/#active)
 
 ## /////////////////////// — XCL : : Web Application Platform
@@ -7,13 +15,11 @@
 **Module Version**  : 2.31  
 
 # X-update Manager Store
-
 {: .fs-9 }
 
-Get and deploy modules, preloads (plugin extension) and themes  
-
-## One-click installation with using X-Update Manager GUI.
-
+### Get and deploy modules, preloads-plugin extension, and themes  
+{: .fs-6 .fw-300 }  
+### One-click installation with using X-Update Manager GUI.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/xoopscube/xcl){: .btn .fs-5 .mb-4 .mb-md-0 }

@@ -6,33 +6,4 @@ baseurl: '/xupdate-store'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
-remote_theme: matthiaslischka/jekyll-uno
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
-
-# Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-  
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
-  - jekyll-include-cache
-
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'vendor']
-
+remote_theme: moonwalk

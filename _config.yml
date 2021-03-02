@@ -28,3 +28,8 @@ kramdown:
   input: GFM
   # do not replace newlines by <br>s
   hard_wrap: false
+  
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-include-cache

@@ -10,19 +10,19 @@ permalink: /
 
 ## /////////////////////// — XCL : : Web Application Platform
 
-**Module Name**  : Xupdate Store 
-
-**Module Version**  : 2.31  
 
 # X-update Manager Store
 {: .fs-9 }
 
 ### Get and deploy modules, preloads-plugin extension- and themes  
 {: .fs-6 .fw-300 }  
+
 ### One-click installation with using X-Update Manager GUI.
 {: .fs-6 .fw-300 }  
-  
-  
+
+---
+
+
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/xoopscube/xcl){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
@@ -56,5 +56,10 @@ The first thing you need to do is log in to your XCL admin area.
 Next, go to » Module Installation and click X-Update Manager install button.  
 Follow the instructions in the installation wizard.  
 Finally, get and deploy modules, preloads and themes to install from X-Update GUI.
-X-update ensures the latest code is always deploying for the benefit of all, webmasters and developers of modules and themes.
+X-update ensures the latest code is always deploying for the benefit of all,   
+site owners and webmasters, developers of modules and themes.
+
+**Module Name**  : Xupdate Store 
+
+**Module Version**  : 2.31  
 

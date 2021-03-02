@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Just Get and Deploy Modules, Preloads - plugin extension - and Themes."
 permalink: /
 ---
 
@@ -17,7 +17,7 @@ permalink: /
 # X-update Manager Store
 {: .fs-9 }
 
-### Get and deploy modules, preloads-plugin extension, and themes  
+### Get and deploy modules, preloads-plugin extension- and themes  
 {: .fs-6 .fw-300 }  
 ### One-click installation with using X-Update Manager GUI.
 {: .fs-6 .fw-300 }

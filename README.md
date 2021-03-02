@@ -12,7 +12,7 @@
 
 Get and deploy modules, preloads (plugin extension) and themes  
 
-One-click installation with using X-Update Manager GUI.
+## One-click installation with using X-Update Manager GUI.
 
 {: .fs-6 .fw-300 }
 

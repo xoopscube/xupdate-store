@@ -10,7 +10,10 @@
 
 {: .fs-9 }
 
-Get and deploy modules, preloads (plugin extension) and themes using X-Update Manager GUI one-click installation.
+Get and deploy modules, preloads (plugin extension) and themes  
+
+One-click installation with using X-Update Manager GUI.
+
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/xoopscube/xcl){: .btn .fs-5 .mb-4 .mb-md-0 }

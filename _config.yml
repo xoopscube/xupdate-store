@@ -1,6 +1,6 @@
 # Site settings
 title: 'X-Update Store'
-description: 'Get and deploy modules, preloads (plugin extension) and themes using X-Update Manager GUI one-click installation.'
+description: 'Get and deploy modules, preloads (plugin extension) and themes with X-Update Manager GUI one-click installation.'
 url: 'http://xoopscube.github.io/xupdate-store/'
 baseurl: '/xupdate-store'
 # google_analytics: 'UA-XXXXXX-X'
@@ -33,3 +33,6 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
   - jekyll-include-cache
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'vendor']
+

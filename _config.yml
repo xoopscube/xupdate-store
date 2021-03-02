@@ -171,3 +171,5 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
+
+theme: jekyll-theme-midnight

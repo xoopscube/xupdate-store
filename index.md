@@ -20,14 +20,15 @@ permalink: /
 ### One-click installation with using X-Update Manager GUI.
 {: .fs-6 .fw-300 }  
 
+
 ---
-
-
+   
+   
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/xoopscube/xcl){: .btn .fs-5 .mb-4 .mb-md-0 }
-
+   
 
 ---
-
+   
 ## Getting started
 
 ### The Minimum Requirements
@@ -49,7 +50,8 @@ $ git clone https://github.com/xoopscube/xcl.git
 2. Point your web browser to [http://localhost/xcl/](http://localhost/xcl)
 3. Follow the instructions step-by-step of the Wizard installation.
 4. Log in to XCL administration 
-
+   
+   
 ### X-update Manager Installation
 
 The first thing you need to do is log in to your XCL admin area.    
@@ -58,7 +60,8 @@ Follow the instructions in the installation wizard.
 Finally, get and deploy modules, preloads and themes to install from X-Update GUI.
 X-update ensures the latest code is always deploying for the benefit of all,   
 site owners and webmasters, developers of modules and themes.
-
+   
+   
 **Module Name**  : Xupdate Store 
 
 **Module Version**  : 2.31  

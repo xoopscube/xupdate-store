@@ -11,13 +11,13 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Just the XCL Store on GitHub":
-    - "//github.com/xoopscube/xupdate-store"
+    - "https://github.com/xoopscube/xupdate-store"
 
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2005-2021 XOOPS Cube Project. Distributed by <a href=\"https://github.com/xoopscube/xcl/blob/master/BSD_license.txt\">BSD</a> and <a href=\"https://github.com/xoopscube/xcl/blob/master/GPL_V2.txt\"> GPL license</a>"
+footer_content: "Copyright &copy; 2005-2022 The XOOPSCube Project. Distributed by <a href=\"https://github.com/xoopscube/xcl/blob/master/BSD_license.txt\">BSD</a> and <a href=\"https://github.com/xoopscube/xcl/blob/master/GPL_V2.txt\"> GPL license</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

@@ -14,10 +14,10 @@ permalink: /
 # X-update Manager Store
 {: .fs-9 }
 
-### Get and deploy modules, preloads-plugin extension- and themes  
+### Install modules, preload extensions, and themes  
 {: .fs-6 .fw-300 }  
 
-### One-click installation with using X-Update Manager GUI.
+### Installing applications with the One-Click X-Update Manager GUI.
 {: .fs-6 .fw-300 }  
 
 
@@ -54,8 +54,11 @@ $ git clone https://github.com/xoopscube/xcl.git
    
 ### X-update Manager Installation
 
-The first thing you need to do is log in to your XCL admin area.    
-Next, go to » Module Installation and click X-Update Manager install button.  
+First, log in to your XCL administration area.    
+Go to » Module Installation  
+Click install button X-Update Manager.  
+
+
 Follow the instructions in the installation wizard.  
 Finally, get and deploy modules, preloads and themes to install from X-Update GUI.
 X-update ensures the latest code is always deploying for the benefit of all,   

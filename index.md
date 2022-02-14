@@ -47,7 +47,7 @@ permalink: /
 ```bash
 $ git clone https://github.com/xoopscube/xcl.git
 ```
-2. Point your web browser to [http://localhost/xcl/](http://localhost/xcl)
+2. Point your web browser to [https://localhost/xcl/](https://localhost/xcl)
 3. Follow the instructions step-by-step of the Wizard installation.
 4. Log in to XCL administration 
    

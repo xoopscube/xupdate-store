@@ -59,13 +59,39 @@ Go to » Module Installation
 Click install button X-Update Manager.  
 
 
-Follow the instructions in the installation wizard.  
-Finally, get and deploy modules, preloads and themes to install from X-Update GUI.
+Follow the instructions of the Installation Wizard.  
+Finally, get and deploy modules, preloads and themes from X-Update GUI.  
+
 X-update ensures the latest code is always deploying for the benefit of all,   
 site owners and webmasters, developers of modules and themes.
-   
-   
-**Module Name**  : Xupdate Store 
 
-**Module Version**  : 2.31  
+### Administration Settings  
+
+Free public store    
+Copy and past the link in the input field of X-Update Manager
+
+```html
+https://raw.githubusercontent.com/xoopscube/xupdate-store/gh-pages/modules_xcl.ini
+```
+### Private Stores
+
+* * *
+
+#### [](#private-store)Private Store `Integrations`
+
+*   Event
+*   Helpdesk
+*   NextCloud
+*   Server Stats
+*   Shop
+*   Wiki
+*   WordPress
+
+| Server       | Repository        | Store |
+|:-------------|:------------------|:------|
+| ok           | core XCL WAP      | Pub   |
+| Updating     | modules           | Pub   |
+| ok           | Blog `xpress`     | Priv  |
+| ok           | Shop `Gateway`    | Priv  |
+
 

@@ -42,22 +42,14 @@ permalink: /
           
 ---
 
-
-1. Clone the repo
-```bash
-$ git clone https://github.com/xoopscube/xcl.git
-```
-2. Point your web browser to [https://localhost/xcl/](https://localhost/xcl)
-3. Follow the instructions step-by-step of the Wizard installation.
-4. Log in to XCL administration 
    
    
 ### X-update Manager Installation
 
-First, log in to your XCL administration area.    
-Go to » Module Installation  
-Click install button X-Update Manager.  
-
+1. First, log in to the administration area.    
+2. Go to » Module Management
+3. Click Install Module » X-Updater
+4. Complete the Installation Wizard
 
 Follow the instructions of the Installation Wizard.  
 Finally, get and deploy modules, preloads and themes from X-Update GUI.  
@@ -68,7 +60,7 @@ site owners and webmasters, developers of modules and themes.
 ### Administration Settings  
 
 Free public store    
-Copy and past the link in the input field of X-Update Manager
+Copy this link and past in the input field of X-Update Manager Preferences
 
 ```html
 https://raw.githubusercontent.com/xoopscube/xupdate-store/gh-pages/modules_xcl.ini
@@ -89,7 +81,7 @@ https://raw.githubusercontent.com/xoopscube/xupdate-store/gh-pages/modules_xcl.i
 
 | Server       | Repository        | Store |
 |:-------------|:------------------|:------|
-| ok           | core XCL WAP      | Pub   |
+| ok           | XCL WAP           | Pub   |
 | Updating     | modules           | Pub   |
 | ok           | Blog `xpress`     | Priv  |
 | ok           | Shop `Gateway`    | Priv  |

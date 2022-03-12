@@ -4,6 +4,7 @@ title: Text and Typography
 nav_order: 98
 ---
 
+## X-Updater Store
 
 This post is to show Markdown syntax rendering of md, you can also use it as an example of writing. Now, let's start looking at text and typography.
 

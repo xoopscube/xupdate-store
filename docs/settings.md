@@ -4,6 +4,10 @@ title: Settings
 nav_order: 80
 ---
 
+
+## X-Updater Store
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).

@@ -21,19 +21,15 @@ nav_order: 15
 
 # INI File
 
-Initialization File should always use the UTF-8 character encoding.  
-This means the content also needs to be saved as UTF-8.  
-
-The structure of INI files is simple.  
-INI files can be viewed and edited with Notepad or any other text editor.  
-
-## What Does .INI File Mean?
 
 An .INI file is a type of file that contains configuration information in a simple, predefined format.  
 It is used by applications to store information about the preferences and operating environment.  
 These files are plain text files with a basic structure comprised of properties and sections.  
 
 It is pronounced as “dot in-ee" or simply "in-ee” file, where .ini signifies “initialization."  
+
+Initialization File should always use the UTF-8 character encoding.  
+This means the content also needs to be saved as UTF-8.  
 
 
 ## Format of .ini file

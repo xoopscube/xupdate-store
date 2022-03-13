@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Home
+title: XOOPSCube Update management Store
 nav_order: 1
-description: "Just Get and Deploy Modules, Preloads - plugin extension - and Themes."
+description: "Get and Deploy System Updates, Modules, Preloads - plugin extension - and Themes."
 permalink: /
 ---
 
@@ -12,24 +12,32 @@ permalink: /
 ![X-Updare Store](https://img.shields.io/badge/X--Update%20Store-Pending-red)
 
 
-## XOOPSCube : : Web Application Platform
-
 
 # X-Update Store
 {: .fs-9 }
 
-### One-Click installation Wizard
+### The XOOPSCube Web Application Platform One-Click installation Wizard
 {: .fs-6 .fw-300 }  
 
-### Update modules, preload extensions, and themes  
+### Update XCL core system, modules, preload extensions, and themes  
 {: .fs-6 .fw-300 }  
 
 ---
    
-   
-[Get started now](/docs/install.md#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Download on GitHub](https://github.com/xoopscube/legacy){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/docs/install.md#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Documentation](/docs/install.md){: .btn .fs-5 .mb-4 .mb-md-0 }
    
 
 ---
-   
 
+<div class="bg-blue-100">
+<h2 class="text-grey-lt-000 mx-auto">XOOPSCube update management</h2>
+</div>
+
+
+Deploy and Manage - Deliver updates , D3 replicable modules and consistency in UI design as source code.  
+
+Event-based notifications to administrators when available updates.  
+
+X-Update Manager provides system updates, third-party module integration, and themes that support consistent management across your XOOPSCube environments.  
+
+It includes batch process automation, update management, module and theme management, shared and heterogeneous preloads functionality.  

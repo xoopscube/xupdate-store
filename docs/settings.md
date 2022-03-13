@@ -13,34 +13,32 @@ ini files for X-update
 Stable
 {: .label .label-green }
 
-Module Blue label
+Module
 {: .label .label-blue }
 
-
-Preload Purple label
+Preload
 {: .label .label-purple }
 
-Theme Yellow label
+Theme
 {: .label .label-yellow }
 
-Other changes Red label
+Update
 {: .label .label-red }
 </div>
 ```markdown
 Stable
 {: .label .label-green }
 
-Module Blue label
+Module
 {: .label .label-blue }
 
-
-Preload Purple label
+Preload
 {: .label .label-purple }
 
-Theme Yellow label
+Theme
 {: .label .label-yellow }
 
-Other changes Red label
+Update
 {: .label .label-red }
 ```
 

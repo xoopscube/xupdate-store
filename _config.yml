@@ -1,7 +1,7 @@
 # theme: jekyll-theme-midnight
 remote_theme: pmarsceill/just-the-docs
 
-title: X-Update Manager
+title: X-Update Store
 description: One-click to get and deploy modules and themes
 baseurl: "/" # the subpath of your site, e.g. /blog
 
@@ -10,7 +10,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the XCL Store on GitHub":
+  "XOOPSCube Update Store":
     - "https://github.com/xoopscube/xupdate-store"
 
 # Back to top link

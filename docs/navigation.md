@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Navigation Structure
+title: Directory Structure
 nav_order: 5
 ---
 
-# Navigation Structure
+# Directory Structure
 {: .no_toc }
 
 <details open markdown="block">

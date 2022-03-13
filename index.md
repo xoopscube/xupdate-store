@@ -6,41 +6,47 @@ description: "Just Get and Deploy Modules, Preloads - plugin extension - and The
 permalink: /
 ---
 
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/2.0.0/active.svg)](https://www.repostatus.org/#active)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/2.0.0/active.svg)](https://github.com/xoopscube/xcl)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+![X-Updare Store](https://img.shields.io/badge/X--Update%20Store-Pending-red)
 
-## /////////////////////// — XCL : : Web Application Platform
+
+## /////// — XOOPSCube : : Web Application Platform
 
 
-# X-update Manager Store
+# X-update Store
 {: .fs-9 }
 
-### Install modules, preload extensions, and themes  
+### Update modules, preload extensions, and themes  
 {: .fs-6 .fw-300 }  
 
-### Installing applications with the One-Click X-Update Manager GUI.
+### One-Click installation Wizard
 {: .fs-6 .fw-300 }  
 
 
 ---
    
    
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/xoopscube/xcl){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Download on GitHub](https://github.com/xoopscube/legacy){: .btn .fs-5 .mb-4 .mb-md-0 }
    
 
 ---
    
 ## Getting started
 
+<div class="code-example" markdown="1">
 ### The Minimum Requirements
-
+</div>
+```
 > XCL version 2.3.x
 
-          Apache, Nginx, etc.
-          PHP 7.2.x
-          MySQL 5.6, MariaDB
-          InnoDB utf8 / utf8mb4
+        Apache, Nginx, etc.
+        PHP 7.2.x
+        MySQL 5.6, MariaDB
+        InnoDB utf8 / utf8mb4
           
----
+```
 
    
    

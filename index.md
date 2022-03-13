@@ -1,6 +1,6 @@
 ---
 layout: default
-title: XOOPSCube Update management Store
+title: X-Update Store
 nav_order: 1
 description: "Get and Deploy System Updates, Modules, Preloads - plugin extension - and Themes."
 permalink: /
@@ -26,40 +26,33 @@ permalink: /
    
 [Get started now](/docs/install.md#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Documentation](/docs/install.md){: .btn .fs-5 .mb-4 .mb-md-0 }
    
-
 ---
 
-<div class="bg-grey-lt-100 p-4">
-<h3 class="text-grey-lt-000 mx-auto">XOOPSCube update management</h3>
-</div>
+
+<h2 class="fs-7 fw-300">Update Management Overview</h2>
 
 
-#### Web Application Platform Update
+#### XOOPSCUBE — SIMPLE SECURE SCALABLE
 
 Deploy and Manage
-: Updates, D3 replicable modules and consistency in UI design as source code.
+: System updates, D3 replicable modules and themes
 
-Event-based notifications
-: Notify administrators when updates are available.
+Event-driven system
+: Notify administrators when updates are available
 
 X-Update Store 
-: Provides system updates, third-party module integration, and themes
-  that support consistent management across your XOOPSCube environments
+: Centralized updates and third-party integration, 
+  that support consistent management
 
 X-Update Manager 
-: Dashboard with batch process automation, update module and theme management
-  shared preloads and heterogeneous functionality
-
-Term1
-Term2
-: Single description of Term1 and Term2,
-  possibly more than one line
+: Administration dashboard with batch process automation, 
+  update management, shared and heterogeneous functionality
 
 
 <hr>
 
 
-<h3>Development</h3>
+<h3 class="fs-7 fw-300">Development</h3>
 
 <div class="code-example">
 
@@ -171,7 +164,7 @@ Term2
 <hr>
 
 
-<h3License</h3>
+<h3 class="fs-7 fw-300">License</h3>
 
 <p>XOOPSCube Core is distributed by a <a href="https://github.com/xoopscube/legacy/blob/2.3/BSD_license.txt" target="">BSD license</a></p>
 

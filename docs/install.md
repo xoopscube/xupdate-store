@@ -1,10 +1,14 @@
 ---
 layout: default
-title: Install X-Update
+title: Getting started
 nav_order: 10
 ---
 
 ## Getting started
+
+X-Update Manager provides an effective and user-friendly dashboard with a set of features that can help manage the complex task of applying software updates to Web Applications.  
+The software update management process is necessary to maintain operational efficiency, continuous improvement process and the stability of the Web Application Platform.   
+
 
 <div class="code-example" markdown="1">
 ### The Minimum Requirements
@@ -19,8 +23,7 @@ nav_order: 10
 ```
 
    
-   
-### X-Update Manager Installation
+### X-Update Manager Installation  
 
 1. First, log in to the administration area.    
 2. Go to » Module Management
@@ -28,9 +31,9 @@ nav_order: 10
 4. Complete the Installation Wizard
 
 Follow the instructions of the Installation Wizard.  
-Finally, get and deploy modules, preloads and themes from X-Update GUI.  
+Finally, get and deploy modules, preloads and themes from X-Update dashboard.  
 
-X-update ensures the latest code is always deploying modules, preloads and themes.
+X-update always deploys the latest code of modules, preloads, and themes.
 
 ### Administration Settings  
 
@@ -39,40 +42,40 @@ Copy this link and past in the input field of X-Update Manager Preferences
 
 ```html
 https://xoopscube.github.io/xupdate-store/modules_xcl.ini
+
+
 ```
-### Private Stores
 
-* * *
+### X-Update Manager Preferences
 
-#### [](#private-store)Private Store `Integrations`
+#### FTP library 
 
-*   Event
-*   Helpdesk
-*   NextCloud
-*   Server Stats
-*   Shop
-*   Wiki
-*   WordPress
+- Direct (Files owner is PHP)
+- Custom FTP (standard)
+- PHP_FTP (for FTPS)
+- Custom SSH_FTP (for SFTP)
+- Custom SSH2 (for Key-Auth)
 
-| Server       | Repository        | Store |
-|:-------------|:------------------|:------|
-| ok           | XCL WAP           | Pub   |
-| Updating     | modules           | Pub   |
-| ok           | Blog `xpress`     | Priv  |
-| ok           | Shop `Gateway`    | Priv  |
+#### SSH connection port
 
+- SSH port for SSH_FTP or SSH Key-Auth connection
+- Private key for SSH connection
 
+#### Custom Permissions
 
-The ZENworks Mobile Management server product has integrated update management features that facilitate
-smooth and convenient software updates to the ZENworks Mobile Management server. These features include
-the dashboard’s Update Management page and the Update Manager application, which is used on the physical
-ZENworks Mobile Management servers to apply updates.
-Update Management in the Dashboard provides:
- Sections that display current information about available updates and historical information about
-versions already applied by using the Update Manager application
- An option to check for updates
- An option to download the available updates
-Update Manager Application allows you to:
- View information about the currently available updates
- Download available updates
- Apply available updates
+- File permission modification 
+- Writable directory
+
+#### X-elFinder Module
+
+- Preload files (php extensions) can be edited with X-elFinder
+
+#### Other options
+
+- Debug output
+- Themes Store
+- Updates Store
+- Maximum HTTP connections
+- Disable SSL certificate verification in curl
+- Set the number of curl simultaneous connection
+

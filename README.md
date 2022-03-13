@@ -33,7 +33,7 @@ License | GPL
 
 -----
 # xupdate-store
-➿ X-update ensures the latest code is always deploying for modules and themes.
+➿ X-update ensures that modules, preloads and themes latest code is always deployed.
 
 # X-Update Update Manager Dashboard
 

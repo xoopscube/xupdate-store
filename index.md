@@ -63,7 +63,7 @@ Free public store
 Copy this link and past in the input field of X-Update Manager Preferences
 
 ```html
-https://raw.githubusercontent.com/xoopscube/xupdate-store/gh-pages/modules_xcl.ini
+https://xoopscube.github.io/xupdate-store/modules_xcl.ini
 ```
 ### Private Stores
 

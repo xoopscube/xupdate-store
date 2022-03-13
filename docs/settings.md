@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Settings
-nav_order: 80
+nav_order: 30
 ---
 
 
@@ -27,17 +27,13 @@ Update
 </div>
 ```markdown
 Stable
-{: .label .label-green }
-
+{: .label .label-green }  
 Module
-{: .label .label-blue }
-
+{: .label .label-blue }  
 Preload
-{: .label .label-purple }
-
+{: .label .label-purple }  
 Theme
-{: .label .label-yellow }
-
+{: .label .label-yellow }  
 Update
 {: .label .label-red }
 ```
@@ -46,7 +42,7 @@ Update
 In order to reduce the overhead of getting ini files from each store  
 registered in X-update, we merged to static files using GitHub Pages.  
 
-> Note that any future changes made to ini of xupdate_store   
+> Note that any future changes made to `ini` of xupdate_store   
 > should be update to the gh-pages branch of the repository.
 
 
@@ -76,7 +72,7 @@ Then :
 git pull 
 ```
 
-And simple git push will do fine.
+A simple git push will do fine.
 
 
 * * *

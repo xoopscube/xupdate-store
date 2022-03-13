@@ -61,3 +61,18 @@ https://xoopscube.github.io/xupdate-store/modules_xcl.ini
 | ok           | Blog `xpress`     | Priv  |
 | ok           | Shop `Gateway`    | Priv  |
 
+
+
+The ZENworks Mobile Management server product has integrated update management features that facilitate
+smooth and convenient software updates to the ZENworks Mobile Management server. These features include
+the dashboard’s Update Management page and the Update Manager application, which is used on the physical
+ZENworks Mobile Management servers to apply updates.
+Update Management in the Dashboard provides:
+ Sections that display current information about available updates and historical information about
+versions already applied by using the Update Manager application
+ An option to check for updates
+ An option to download the available updates
+Update Manager Application allows you to:
+ View information about the currently available updates
+ Download available updates
+ Apply available updates

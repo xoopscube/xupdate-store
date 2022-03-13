@@ -13,6 +13,8 @@ aux_links:
   "XOOPSCube Update Store":
     - "https://github.com/xoopscube/xupdate-store"
 
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/favicon.svg"

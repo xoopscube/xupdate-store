@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Initialization File
-nav_order: 15
+nav_order: 20
 ---
 
-# Directory Structure
+# X-Update Store
+{: .fs-9 }
 {: .no_toc }
 
 <details open markdown="block">
@@ -19,7 +20,7 @@ nav_order: 15
 ---
 
 
-# INI File
+## INI File
 
 
 An .INI file is a type of file that contains configuration information in a simple, predefined format.  
@@ -53,7 +54,8 @@ Two or more specifications are possible for
 - "delete_dir[]" and "delete_file[]" respectively.
 
 
-<pre>
+
+```
 [ItemKey]                 ; Probably it will be the same as that of target_key, and is good.
 dirname = "dirname"       ; module directory name (string)
 target_key = "UniqKey"    ; Unique key (string)
@@ -76,6 +78,6 @@ writable_dir[] = ""       ; Set write permission to directory [optional] (string
 writable_file[] = ""      ; Set write permission to file [optional] (string)
 delete_dir[] = ""         ; Delete unnecessary Directory [optional] (string)
 delete_file[] = ""        ; Delete unnecessary File [optional] (string)
-</pre>
+```
 
 

@@ -4,10 +4,13 @@ title: Getting started
 nav_order: 10
 ---
 
-## Getting started
+# X-Update Store
+{: .fs-9 }
 
-X-Update Manager provides an effective and user-friendly dashboard with a set of features that can help manage the complex task of applying software updates to Web Applications.  
-The software update management process is necessary to maintain operational efficiency, continuous improvement process and the stability of the Web Application Platform.   
+X-Update Manager provides an effective and user-friendly dashboard with a set of features  
+that can help manage the complex task of applying software updates to Web Applications.  
+The software update management process is necessary to maintain operational efficiency,  
+continuous improvement process and the stability of the Web Application Platform.   
 
 
 <div class="code-example" markdown="1">

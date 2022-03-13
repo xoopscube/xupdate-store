@@ -166,6 +166,8 @@ X-Update Manager
 
 <h3 class="fs-7 fw-300">License</h3>
 
-<p>XOOPSCube Core is distributed by a <a href="https://github.com/xoopscube/legacy/blob/2.3/BSD_license.txt" target="">BSD license</a></p>
+<p>XOOPSCube Core is distributed under a <a href="https://github.com/xoopscube/legacy/blob/2.3/BSD_license.txt" target="">BSD license</a></p>
 
-<p>Legacy Package is distributed by a <a href="" target="https://github.com/xoopscube/legacy/blob/2.3/gpl-2.0_license.md">GPL 2.0 license</a></p>
+<p>Legacy Package is distributed under a <a href="" target="https://github.com/xoopscube/legacy/blob/2.3/gpl-2.0_license.md">GPL 2.0 license</a></p>
+
+<p></p>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preferences
-nav_order: 25
+nav_order: 30
 ---
 
 ## X-Updater Store

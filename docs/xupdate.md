@@ -1,10 +1,10 @@
 ---
 layout: default
 title: About X-Update
-nav_order: 20
+nav_order: 50
 ---
 
-# Introduction
+# OVERVIEW
 {: .no_toc }
 
 <details open markdown="block">
@@ -19,16 +19,15 @@ nav_order: 20
 ---
 
 
-# OVERVIEW
-
+## Introduction
 
 X-Update Manager provides an effective and user-friendly dashboard with a set of features that can help manage the complex task of applying software updates to Web Applications.  
 The software update management process is necessary to maintain operational efficiency, continuous improvement process and the stability of the Web Application Platform.   
 
 
-## X-Uupdate Store
+## X-Update Store
 
-➿ X-update ensures that modules, preloads and themes latest code is always deployed.
+X-update ensures that modules, preloads and themes latest code is always deployed.
 
 ## X-Update Manager Dashboard
 
@@ -49,7 +48,7 @@ X-update also supports the installation and update of D3 modules (duplicate and 
 * Other extensions, ie. preloads, can be downloaded and uploaded from the store site.
 
 
-<h3 class="fs-7 fw-300">License</h3>
+## License
 
 <p>XOOPSCube Core is distributed by a <a href="https://github.com/xoopscube/legacy/blob/2.3/BSD_license.txt" target="">BSD license</a></p>
 

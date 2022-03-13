@@ -51,7 +51,7 @@ search:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2005-2022 The XOOPSCube Project. Distributed by BSD license and GPL V2.0 license"
+footer_content: "Copyright &copy; 2005-2022 The XOOPSCube Project. Distributed under BSD license and GPL V2.0 license"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

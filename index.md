@@ -52,7 +52,7 @@ X-Update Manager
 
 <div class="code-example">
 
-<h4>LEAD DEVELOPERS</h4>
+<h4>LEAD DEVELOPER</h4>
 
     <div class="d-flex flex-justify-start v-align-middle">
 
@@ -63,17 +63,6 @@ X-Update Manager
             <div class="d-block p-2">
                 <h4>Naoki Sawada</h4>
                 <p><a href="https://github.com/nao-pon" alt="_blank">nao-pon</a></p>
-            </div>
-        </div>
-
-
-        <div class="d-flex flex-justify-between v-align-middle m-4 bg-grey-lt-000">
-            <div class="d-block p-2">
-                <img src="https://github.com/naao.png?size=50" width="50">
-            </div>
-            <div class="d-block p-2">
-                <h4>Naoki Okino</h4>
-                <p><a href="https://github.com/naao" alt="_blank">naao</a></p>
             </div>
         </div>
 
@@ -118,10 +107,6 @@ X-Update Manager
             </div>
         </div>
 
-    </div>
-
-    <div class="d-flex flex-justify-start v-align-middle">
-
         <div class="d-flex flex-justify-between v-align-middle m-4 bg-grey-lt-000">
             <div class="d-block p-2">
                 <img src="https://github.com/kilica.png?size=50" width="50">
@@ -129,6 +114,20 @@ X-Update Manager
             <div class="d-block p-2">
                 <h4>Hikawa Kilica</h4>
                 <p><a href="https://github.com/kilica" alt="_blank">kilica</a></p>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="d-flex flex-justify-start v-align-middle">
+
+        <div class="d-flex flex-justify-between v-align-middle m-4 bg-grey-lt-000">
+            <div class="d-block p-2">
+                <img src="https://github.com/naao.png?size=50" width="50">
+            </div>
+            <div class="d-block p-2">
+                <h4>Naoki Okino</h4>
+                <p><a href="https://github.com/naao" alt="_blank">naao</a></p>
             </div>
         </div>
 

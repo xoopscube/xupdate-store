@@ -51,14 +51,17 @@ X-update always deploys the latest code of modules, preloads, and themes.</p>
 
 <hr>
 
-<h2>X-Update Manager Preferences</h2>
+<h2>Public store</h2>
 
-<p>Free public store<br>
-Copy this link and past in the input field of X-Update Manager Preferences</p>
+<p>log in to the administration area.</p>
+<p>Dashboard » X-Update » Preferences</p>
+<p>Copy this link and past in the input field of X-Update Manager Preferences</p>
 
 ```html
 http://xoopscube.xyz/uploads/xupdatemaster/stores_json_V1.tx
 ```
+
+<h2>Features</h2>
 
 #### FTP library 
 

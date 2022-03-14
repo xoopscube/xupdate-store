@@ -13,18 +13,18 @@ permalink: /
 
 
 
-# X-Update Store
-{: .fs-9 }
+<h1 class="fs-9"> X-Update Store</h1>
 
-### The XOOPSCube Web Application Platform One-Click installation Wizard
-{: .fs-6 .fw-300 }  
+<h3 class="fs-6 fw-300">
+XOOPSCube — Simple, Secure and Scalable<br>
+Web Application Platform</h3>
 
-### Easily deploy system, modules, preload extensions, and themes updates  
-{: .fs-6 .fw-300 }  
+<h3 class="fs-6 fw-300">Easily deploy system updates, modules, preload extensions, and themes</h3>
+
 
 ---
    
-[Get started now](/docs/install.md#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Documentation](/docs/install.md){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/docs/install.md#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Documentation](/docs/xupdate.md){: .btn .fs-5 .mb-4 .mb-md-0 }
    
 ---
 
@@ -41,11 +41,11 @@ Event-driven system
 : Notify administrators when updates are available
 
 X-Update Store 
-: Centralized updates and third-party integration, 
+: Centralized updates and third-party integration,  
   that support consistent management
 
 X-Update Manager 
-: Administration dashboard with batch process automation, 
+: Administration dashboard with batch process automation,  
   update management, shared and heterogeneous functionality
 
 

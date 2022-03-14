@@ -24,7 +24,7 @@ Web Application Platform</h3>
 
 ---
    
-[Get started now](/docs/install.md#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Documentation](/docs/xupdate.md){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/docs/getstart.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Documentation](/docs/xupdate.md){: .btn .fs-5 .mb-4 .mb-md-0 }
    
 ---
 
@@ -48,9 +48,7 @@ X-Update Manager
 : Administration dashboard with batch process automation,  
   update management, shared and heterogeneous functionality
 
-
 <hr>
-
 
 <h3 class="fs-7 fw-300">Development</h3>
 

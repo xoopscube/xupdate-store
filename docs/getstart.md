@@ -41,18 +41,18 @@ Initialization File should always use the UTF-8 character encoding.
 This means the content also needs to be saved as UTF-8.  
 
 ## Format of .ini file
-
+  
 **Property** : The basic element contained in an `.ini` file is a property.  
 Each property includes a name and a value that are delimited using a sign `=` "equals".  
 This is represented in the format "keyname=value".
-
+  
 **Section** : The properties can be arranged into arbitrarily named “sections” in the file.  
 Every section begins with a section header containing a section name in the square brackets.  
-For example, `[section name]`
-
+For example, `[section name]`  
+  
 **Comment** : The semicolons `;` used at the start of the line represent a comment.   
 The commented lines are usually ignored.
-
+  
 ## Format of modules.ini
 
 "modules.ini" needs to be UTF-8 encoding. 
@@ -64,9 +64,9 @@ Two or more specifications are possible for
 - "writable_file[]", 
 - "delete_dir[]" and "delete_file[]" respectively.
 
-
+<div class="code-example">
 ## module.ini
-
+</div
 ```
 [ItemKey]                 ; Probably it will be the same as that of target_key, and is good.
 dirname = "dirname"       ; module directory name (string)
@@ -129,11 +129,12 @@ Update
 ## GIT commit
 
 
-Enter git status to see the changes to be committed.  
-Enter git commit -m '<commit_message>'  
-at the command line to commit new files/changes to the local repository.  
-For the <commit_message>, you can enter anything that describes the changes you are committing.  
-Commit files to the xupdate-store Git repository.
+- Enter 'git status' to see the changes to be committed.  
+- Enter 'git commit -m <commit_message>'  
+  at the command line to commit new files changes to the local repository.  
+  For the '<commit_message>'  
+  you can enter anything that describes the changes you are committing.  
+- Commit files to the xupdate-store Git repository.
 
 
 ## [](#header-2)Branch gh-pages

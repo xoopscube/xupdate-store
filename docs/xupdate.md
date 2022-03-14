@@ -14,7 +14,7 @@ continuous improvement process and the stability of the Web Application Platform
 
 
 <div class="code-example" markdown="1">
-### The Minimum Requirements
+<h3>The Minimum Requirements</h3>
 </div>
 ```
         XCL version 2.3.x
@@ -26,7 +26,7 @@ continuous improvement process and the stability of the Web Application Platform
 ```
 
 <div class="code-example">
-## X-Update Manager Installation  
+<h3>X-Update Manager Installation</h3>  
 </div>
 ```
 1. First, log in to the administration area.    
@@ -36,6 +36,7 @@ continuous improvement process and the stability of the Web Application Platform
 ```
 
 <div class="d-flex flex-justify-start bg-blue-000 m-4 p-4">
+
 <div class="text-grey-lt-000">
 <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);"><path d="M2 12A10 10 0 1 0 12 2A10 10 0 0 0 2 12m13.6 1.72A4 4 0 0 0 16 12a4 4 0 0 0-4-4v2L8.88 7L12 4v2a6 6 0 0 1 6 6a5.9 5.9 0 0 1-.93 3.19M6 12a5.9 5.9 0 0 1 .93-3.19l1.47 1.47A4 4 0 0 0 8 12a4 4 0 0 0 4 4v-2l3 3l-3 3v-2a6 6 0 0 1-6-6z" fill="currentColor"/></svg>
 </div>
@@ -43,8 +44,9 @@ continuous improvement process and the stability of the Web Application Platform
 <div class="text-grey-lt-000 ml-2 p-2">
 <p>Follow the instructions of the Installation Wizard.<br>  
 Finally, get and deploy modules, preloads and themes from X-Update dashboard.<br>
-X-update always deploys the latest code of modules, preloads, and themes.</p></div>
+X-update always deploys the latest code of modules, preloads, and themes.</p>
 </div>
+
 </div>
 
 <hr>

@@ -15,9 +15,7 @@ permalink: /
 
 <h1 class="fs-9"> X-Update Store</h1>
 
-<h3 class="fs-6 fw-300">
-XOOPSCube — Simple, Secure and Scalable<br>
-Web Application Platform</h3>
+<h3 class="fs-6 fw-300"> XOOPSCube — Web Application Platform<br>//////////////—— Simple, Secure, Scalable</h3>
 
 <h3 class="fs-6 fw-300">Easily deploy system updates, modules, preload extensions, and themes</h3>
 

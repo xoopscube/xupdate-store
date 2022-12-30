@@ -32,7 +32,7 @@ permalink: /
 
 #### XOOPSCUBE — SIMPLE SECURE SCALABLE
 
-Deploy and Manage
+Get Faster Deployment
 : System updates, D3 replicable modules and themes
 
 Event-driven system
@@ -40,7 +40,7 @@ Event-driven system
 
 X-Update Store 
 : Centralized updates and third-party integration,  
-  that support consistent management
+  to support consistent management
 
 X-Update Manager 
 : Administration dashboard with batch process automation,  

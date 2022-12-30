@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-Update Manager
+title: Update Manager
 nav_order: 20
 ---
 

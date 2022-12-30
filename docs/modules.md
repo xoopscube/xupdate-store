@@ -7,8 +7,7 @@ nav_order: 30
 # Get and Deploy Modules
 {: .fs-9 }
 
-The easiest and fastest way to expand your web application platform is to get and deploy a module or a preload (single file component).  
-Any installed add-on is displayed with a different color. It is recommended to use the most recent version.  
+The easiest and fastest way to expand your web application platform is to get and deploy a module or a preload (single file component). Any installed add-on is displayed with a different color. It is recommended to use the most recent version.  
 
 
 <div class="d-flex flex-justify-start bg-blue-000 m-4 p-4">
@@ -19,9 +18,31 @@ Any installed add-on is displayed with a different color. It is recommended to u
 
 <div class="text-grey-lt-000 ml-2 p-2">
 <p>You are also given the freedom to use older versions if those are necessary for compatibility reasons.<br>  
-Beware of potential issues that arise with installing older versions of modules needed that may not be compatible with the XCL 2.3.x version you have installed.</p>
+Beware of potential issues that arise with installing older versions of modules needed. The older versions may not be compatible with the XCL 2.3.x version you have installed.</p>
 </div>
 
 </div>
 
 <hr>
+
+<div class="code-example">
+
+<h4>XCL Store Modules</h4>
+
+    <div class="d-flex flex-justify-start v-align-middle">
+
+        <div class="d-flex flex-justify-between v-align-middle m-4 bg-grey-lt-000">
+            <div class="d-bloc p-2">
+                <img src="/assets/images/xcl-store-modules.png" width="292" alt="XCL Store Modules">
+            </div>
+            <div class="d-block p-2">
+                <h4>Your own app store</h4>
+                <p>You can get and deploy modules from the public GitHub repository. Public repositories are accessible to everyone on the internet.</p>
+                <p>Or you can create your private repository with customized modules and get your modules from the Store menu on your website</p>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+  

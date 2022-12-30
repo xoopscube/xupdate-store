@@ -25,24 +25,42 @@ Beware of potential issues that arise with installing older versions of modules 
 
 <hr>
 
-<div class="code-example">
+<h3 class="fs-6 fw-300">XCL Store Modules</h3>
 
-<h4>XCL Store Modules</h4>
+<div class="d-flex flex-justify-start v-align-middle">
 
-    <div class="d-flex flex-justify-start v-align-middle">
-
-        <div class="d-flex flex-justify-between v-align-middle m-4 bg-grey-lt-000">
-            <div class="d-bloc p-2">
-                <img src="/assets/images/xcl-store-modules.png" width="292" alt="XCL Store Modules">
-            </div>
-            <div class="d-block p-2">
-                <h4>Your own app store</h4>
-                <p>You can get and deploy modules from the public GitHub repository. Public repositories are accessible to everyone on the internet.</p>
-                <p>Or you can create your private repository with customized modules and get your modules from the Store menu on your website</p>
-            </div>
+    <div class="d-flex flex-justify-between v-align-middle m-4 bg-grey-lt-000">
+        <div class="d-bloc p-2">
+            <img src="/assets/images/xcl-store-modules.png" width="292" alt="XCL Store Modules">
         </div>
-
+        <div class="d-block p-2">
+            <h4>Your own app store</h4>
+            <p>You can get and deploy modules from the public GitHub repository. Public repositories are accessible to everyone on the internet.</p>
+            <p>Or you can create your private repository with customized modules and get your modules from the Store menu on your Update Manager.</p>
+            <p>This procedure works for all types of Store components — modules, preloads, themes — except app services.</p>
+        </div>
     </div>
 
 </div>
-  
+
+<h3 class="fs-6 fw-300">Downloading and install</h3>
+
+<p>You can add new features to your Web Application Platform by installing add-ons, modules and preloads (single file component extensions). 
+    Access the administration Control Panel and click X-Update Manager</p> 
+<p>X-Update Manager allows you to select a Store and to explore content that you can filter and sort in the following ways:</p>
+
+<dl> 
+    <dt>Module Name</dt>
+    <dd>Alphabetical order</dd>
+    <dt>Category</dt>
+    <dd>Modules can be organised into categories</dd>
+    <dt>Last Update</dt>
+    <dd>Based on the last updated date</dd>
+    <dt>Version</dt>
+    <dd>Higher than 2.3.x are compatibility with future versions</dd>
+    <dt>Required Level</dt>
+    <dd>Required by the system version, normal or optional</dd>
+    <dt>Type</dt>
+    <dd>The Web Platform can include various module types. The modules can belong to the subsystem, or they can run independently.</dd>
+</dl>
+

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: X-Update Store
+title: XCL Store
 nav_order: 1
 description: "Get and Deploy System Updates, Modules, Preloads - plugin extension - and Themes."
 permalink: /
@@ -22,7 +22,7 @@ permalink: /
 
 ---
    
-[Get started now](/docs/getstart.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Documentation](/docs/xupdate.md){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/docs/getstart.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Update Manager](/docs/xupdate.md){: .btn .fs-5 .mb-4 .mb-md-0 }
    
 ---
 

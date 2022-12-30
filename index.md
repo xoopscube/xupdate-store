@@ -13,7 +13,7 @@ permalink: /
 
 
 
-<h1 class="fs-9"> X-Update Store</h1>
+<h1 class="fs-9"> XCL Store</h1>
 
 <h3 class="fs-6 fw-300"> XOOPSCube — Web Application Platform<br>//////////////—— Simple, Secure, Scalable</h3>
 

@@ -31,12 +31,12 @@ Beware of potential issues that arise with installing older versions of modules 
 
     <div class="d-flex flex-justify-between v-align-middle m-4 bg-grey-lt-000">
         <div class="d-bloc p-2">
-            <img src="/assets/images/xcl-store-modules.png" width="292" alt="XCL Store Modules">
+            <img src="../assets/images/xcl-store-modules.png" width="292" alt="XCL Store Modules">
         </div>
         <div class="d-block p-2">
             <h4>Your own app store</h4>
             <p>You can get and deploy modules from the public GitHub repository. Public repositories are accessible to everyone on the internet.</p>
-            <p>Or you can create your private repository with customized modules and get your modules from the Store menu on your Update Manager.</p>
+            <p>Or you can create your private repository with customized modules and get your modules from the Store menu of your Update Manager.</p>
             <p>This procedure works for all types of Store components — modules, preloads, themes — except app services.</p>
         </div>
     </div>
@@ -45,8 +45,8 @@ Beware of potential issues that arise with installing older versions of modules 
 
 <h3 class="fs-6 fw-300">Downloading and install</h3>
 
-<p>You can add new features to your Web Application Platform by installing add-ons, modules and preloads (single file component extensions). 
-    Access the administration Control Panel and click X-Update Manager</p> 
+<p>Access the administration Control Panel and click X-Update Manager to extend your Web Application Platform.</p>
+<p>Add new features by installing add-ons, modules and preloads (single file component extensions).</p> 
 <p>X-Update Manager allows you to select a Store and to explore content that you can filter and sort in the following ways:</p>
 
 <dl> 
